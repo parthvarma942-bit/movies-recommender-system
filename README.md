@@ -12,3 +12,6 @@ The project covers the entire development lifecycle:
 * **Recommendation Logic:** A function is created to suggest the top five most similar movies for any given movie.
 * **Web Application Development:** A user-friendly interface is built using Streamlit.
 * **Deployment:** The entire system is deployed on Heroku, making it a live, accessible web application.
+
+Copy the Data folder and run in Jupyter Notebook!!
+In PyCharm run app.py file
