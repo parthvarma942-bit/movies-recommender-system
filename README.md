@@ -1,4 +1,7 @@
 # movies-recommender-system
+
+Language - AI/ML, Python
+
 This project is a comprehensive guide to building a **Movie Recommender System**. It focuses on a **content-based filtering approach**, meaning it recommends movies based on their inherent characteristics (like genre, keywords, cast, and director) rather than on user behavior.
 
 The project covers the entire development lifecycle:
